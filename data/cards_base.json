@@ -568,6 +568,14 @@
       "can_evolve": false
     },
     {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "cost": 4,
+      "type": "troop",
+      "rarity": "legendary",
+      "can_evolve": "false"
+    },
+    {
       "id": "magic_archer",
       "name": "Magic Archer",
       "cost": 4,
@@ -613,6 +621,14 @@
       "cost": 4,
       "type": "troop",
       "rarity": "legendary",
+      "can_evolve": false
+    },
+    {
+      "id": "skeleton_king",
+      "name": "Skeleton King",
+      "cost": 4,
+      "type": "Troop",
+      "rarity": "champion",
       "can_evolve": false
     },
     {
@@ -837,6 +853,22 @@
       "cost": 6,
       "type": "building",
       "rarity": "rare",
+      "can_evolve": false
+    },
+    {
+      "id": "spirit_empress",
+      "name": "Spirit Empress",
+      "cost": 6,
+      "type": "troop",
+      "rarity": "legendary",
+      "can_evolve": false
+    },
+    {
+      "id": "boss_bandit",
+      "name": "Boss Bandit",
+      "cost": 6,
+      "type": "troop",
+      "rarity": "champion",
       "can_evolve": false
     },
     {

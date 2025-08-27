@@ -302,6 +302,10 @@
             "level": 3
         },
         {
+            "id": "phoenix",
+            "level": 9
+        },
+        {
             "id": "magic_archer",
             "level": 11
         },
@@ -329,6 +333,10 @@
             "level": 9
         },
         {
+            "id": "skeleton_king",
+            "level": 11
+        },
+        {
             "id": "golden_knight",
             "level": 12
         },
@@ -343,7 +351,7 @@
         {
             "id": "barbarians",
             "level": 7,
-            "evolution": false
+            "evolution": true
         },
         {
             "id": "wizard",
@@ -381,7 +389,7 @@
         },
         {
             "id": "electro_dragon",
-            "level": 12,
+            "level": 13,
             "evolution": true
         },
         {
@@ -450,6 +458,10 @@
         {
             "id": "spirit_empress",
             "level": 9
+        },
+        {
+            "id": "boss_bandit",
+            "level": 11
         },
         {
             "id": "pekka",
