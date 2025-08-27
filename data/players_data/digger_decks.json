@@ -1,0 +1,277 @@
+[
+  {
+    "deck_name": "Royal Elite Spam",
+    "date": "2025-08-05",
+    "creator": "INTERNET",
+    "cards": [
+      {
+        "id": "bats",
+        "cost": 2,
+        "level": 13,
+        "rarity": "common"
+      },
+      {
+        "id": "hunter",
+        "cost": 4,
+        "level": 13,
+        "rarity": "epic"
+      },
+      {
+        "id": "electro_wizard",
+        "cost": 4,
+        "level": 11,
+        "rarity": "legendary"
+      },
+      {
+        "id": "elite_barbarians",
+        "cost": 6,
+        "level": 13,
+        "rarity": "common"
+      },
+      {
+        "id": "zap",
+        "cost": 2,
+        "level": 13,
+        "rarity": "common"
+      },
+      {
+        "id": "poison",
+        "cost": 4,
+        "level": 12,
+        "rarity": "epic"
+      },
+      {
+        "id": "zappies",
+        "cost": 4,
+        "level": 12,
+        "rarity": "rare"
+      },
+      {
+        "id": "royal_giant",
+        "cost": 6,
+        "level": 13,
+        "rarity": "common"
+      }
+    ]
+  },
+  {
+    "deck_name": "Ghost Run",
+    "date": "2025-08-05",
+    "creator": "Otacon",
+    "cards": [
+      {
+        "id": "zap",
+        "cost": 2,
+        "level": 13,
+        "rarity": "common"
+      },
+      {
+        "id": "bandit",
+        "cost": 3,
+        "level": 11,
+        "rarity": "legendary"
+      },
+      {
+        "id": "hunter",
+        "cost": 4,
+        "level": 13,
+        "rarity": "epic"
+      },
+      {
+        "id": "mini_pekka",
+        "cost": 4,
+        "level": 12,
+        "rarity": "rare"
+      },
+      {
+        "id": "poison",
+        "cost": 4,
+        "level": 12,
+        "rarity": "epic"
+      },
+      {
+        "id": "royal_ghost",
+        "cost": 3,
+        "level": 11,
+        "rarity": "legendary"
+      },
+      {
+        "id": "zappies",
+        "cost": 4,
+        "level": 12,
+        "rarity": "rare"
+      },
+      {
+        "id": "ram_rider",
+        "cost": 5,
+        "level": 11,
+        "rarity": "legendary"
+      }
+    ]
+  },
+  {
+    "deck_name": "Big Bully ROYAL PUSH",
+    "date": "2025-08-05",
+    "creator": "INTERNET",
+    "cards": [
+      {
+        "id": "electro_dragon",
+        "cost": 5,
+        "level": 12,
+        "rarity": "epic"
+      },
+      {
+        "id": "royal_giant",
+        "cost": 6,
+        "level": 13,
+        "rarity": "common"
+      },
+      {
+        "id": "dart_goblin",
+        "cost": 3,
+        "level": 11,
+        "rarity": "rare"
+      },
+      {
+        "id": "zap",
+        "cost": 2,
+        "level": 13,
+        "rarity": "common"
+      },
+      {
+        "id": "zappies",
+        "cost": 4,
+        "level": 12,
+        "rarity": "rare"
+      },
+      {
+        "id": "bomber",
+        "cost": 2,
+        "level": 13,
+        "rarity": "common"
+      },
+      {
+        "id": "guards",
+        "cost": 3,
+        "level": 12,
+        "rarity": "epic"
+      },
+      {
+        "id": "elixir_collector",
+        "cost": 6,
+        "level": 11,
+        "rarity": "rare"
+      }
+    ]
+  },
+  {
+    "deck_name": "Mini MEGA",
+    "date": "2025-08-05",
+    "creator": "INTERNET",
+    "cards": [
+      {
+        "id": "zap",
+        "cost": 2,
+        "level": 13,
+        "rarity": "common"
+      },
+      {
+        "id": "spear_goblins",
+        "cost": 2,
+        "level": 13,
+        "rarity": "common"
+      },
+      {
+        "id": "mini_pekka",
+        "cost": 4,
+        "level": 12,
+        "rarity": "rare"
+      },
+      {
+        "id": "electro_wizard",
+        "cost": 4,
+        "level": 11,
+        "rarity": "legendary"
+      },
+      {
+        "id": "poison",
+        "cost": 4,
+        "level": 12,
+        "rarity": "epic"
+      },
+      {
+        "id": "bomber",
+        "cost": 2,
+        "level": 13,
+        "rarity": "common"
+      },
+      {
+        "id": "mega_knight",
+        "cost": 7,
+        "level": 11,
+        "rarity": "legendary"
+      },
+      {
+        "id": "wizard",
+        "cost": 5,
+        "level": 12,
+        "rarity": "rare"
+      }
+    ]
+  },
+  {
+    "deck_name": "Light bully barrel push",
+    "date": "2025-08-05",
+    "creator": "Gabe",
+    "cards": [
+      {
+        "id": "goblin_barrel",
+        "cost": 3,
+        "level": 10,
+        "rarity": "epic"
+      },
+      {
+        "id": "skeleton_barrel",
+        "cost": 3,
+        "level": 10,
+        "rarity": "epic"
+      },
+      {
+        "id": "zappies",
+        "cost": 4,
+        "level": 12,
+        "rarity": "rare"
+      },
+      {
+        "id": "fire_spirit",
+        "cost": 1,
+        "level": 10,
+        "rarity": "common"
+      },
+      {
+        "id": "goblin_gang",
+        "cost": 3,
+        "level": 12,
+        "rarity": "common"
+      },
+      {
+        "id": "inferno_tower",
+        "cost": 5,
+        "level": 7,
+        "rarity": "rare"
+      },
+      {
+        "id": "ice_spirit",
+        "cost": 1,
+        "level": 10,
+        "rarity": "common"
+      },
+      {
+        "id": "mirror",
+        "cost": 1,
+        "level": 9,
+        "rarity": "epic"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1105 @@
+{
+  "cards": [
+    {
+      "id": "skeletons",
+      "name": "Skeletons",
+      "cost": 1,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "fire_spirit",
+      "name": "Fire Spirit",
+      "cost": 1,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "electro_spirit",
+      "name": "Electro Spirit",
+      "cost": 1,
+      "level": 1,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "ice_spirit",
+      "name": "Ice Spirit",
+      "cost": 1,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "heal_spirit",
+      "name": "Heal Spirit",
+      "cost": 1,
+      "level": 1,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "mirror",
+      "name": "Mirror",
+      "cost": 1,
+      "level": 9,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "epic",
+      "tags": [],
+      "cost_variable": true
+    },
+    {
+      "id": "goblins",
+      "name": "Goblins",
+      "cost": 2,
+      "level": 9,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "spear_goblins",
+      "name": "Spear Goblins",
+      "cost": 2,
+      "level": 13,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "bomber",
+      "name": "Bomber",
+      "cost": 2,
+      "level": 13,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "zap",
+      "name": "Zap",
+      "cost": 2,
+      "level": 13,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "giant_snowball",
+      "name": "Giant Snowball",
+      "cost": 2,
+      "level": 4,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "ice_golem",
+      "name": "Ice Golem",
+      "cost": 2,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "berserker",
+      "name": "Berserker",
+      "cost": 2,
+      "level": 1,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "barbarian_barrel",
+      "name": "Barbarian Barrel",
+      "cost": 2,
+      "level": 11,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "bats",
+      "name": "Bats",
+      "cost": 2,
+      "level": 13,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "log",
+      "name": "The Log",
+      "cost": 2,
+      "level": 11,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "wall_breakers",
+      "name": "Wall Breakers",
+      "cost": 2,
+      "level": 9,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "suspicious_bush",
+      "name": "Suspicious Bush",
+      "cost": 2,
+      "level": 3,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "rage",
+      "name": "Rage",
+      "cost": 2,
+      "level": 11,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "goblin_curse",
+      "name": "Goblin Curse",
+      "cost": 2,
+      "level": 6,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "knight",
+      "name": "Knight",
+      "cost": 3,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "archers",
+      "name": "Archers",
+      "cost": 3,
+      "level": 9,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "minions",
+      "name": "Minions",
+      "cost": 3,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "arrows",
+      "name": "Arrows",
+      "cost": 3,
+      "level": 9,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "tombstone",
+      "name": "Tombstone",
+      "cost": 3,
+      "level": 1,
+      "evolution": false,
+      "type": "building",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "cannon",
+      "name": "Cannon",
+      "cost": 3,
+      "level": 5,
+      "evolution": false,
+      "type": "building",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "mega_minion",
+      "name": "Mega Minion",
+      "cost": 3,
+      "level": 11,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "skeleton_army",
+      "name": "Skeleton Army",
+      "cost": 3,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "guards",
+      "name": "Guards",
+      "cost": 3,
+      "level": 12,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "goblin_barrel",
+      "name": "Goblin Barrel",
+      "cost": 3,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "goblin_gang",
+      "name": "Goblin Gang",
+      "cost": 3,
+      "level": 12,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "dart_goblin",
+      "name": "Dart Goblin",
+      "cost": 3,
+      "level": 11,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "princess",
+      "name": "Princess",
+      "cost": 3,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "miner",
+      "name": "Miner",
+      "cost": 3,
+      "level": 11,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "firecracker",
+      "name": "Firecracker",
+      "cost": 3,
+      "level": 1,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "earthquake",
+      "name": "Earthquake",
+      "cost": 3,
+      "level": 7,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "ice_wizard",
+      "name": "Ice Wizard",
+      "cost": 3,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "royal_ghost",
+      "name": "Royal Ghost",
+      "cost": 3,
+      "level": 11,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "bandit",
+      "name": "Bandit",
+      "cost": 3,
+      "level": 11,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "royal_delivery",
+      "name": "Royal Delivery",
+      "cost": 3,
+      "level": 1,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "elixir_golem",
+      "name": "Elixir Golem",
+      "cost": 3,
+      "level": 3,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "tornado",
+      "name": "Tornado",
+      "cost": 3,
+      "level": 7,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "clone",
+      "name": "Clone",
+      "cost": 3,
+      "level": 9,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "void",
+      "name": "Void",
+      "cost": 3,
+      "level": 6,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "fisherman",
+      "name": "Fisherman",
+      "cost": 3,
+      "level": 9,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "musketeer",
+      "name": "Musketeer",
+      "cost": 4,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "mini_pekka",
+      "name": "Mini P.E.K.K.A",
+      "cost": 4,
+      "level": 12,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "goblin_hut",
+      "name": "Goblin Hut",
+      "cost": 4,
+      "level": 10,
+      "evolution": false,
+      "type": "building",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "goblin_cage",
+      "name": "Goblin Cage",
+      "cost": 4,
+      "level": 3,
+      "evolution": false,
+      "type": "building",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "fireball",
+      "name": "Fireball",
+      "cost": 4,
+      "level": 9,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "valkyrie",
+      "name": "Valkyrie",
+      "cost": 4,
+      "level": 9,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "battle_ram",
+      "name": "Battle Ram",
+      "cost": 4,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "skeleton_dragons",
+      "name": "Skeleton Dragons",
+      "cost": 4,
+      "level": 1,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "bomb_tower",
+      "name": "Bomb Tower",
+      "cost": 4,
+      "level": 4,
+      "evolution": false,
+      "type": "building",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "mortar",
+      "name": "Mortar",
+      "cost": 4,
+      "level": 1,
+      "evolution": false,
+      "type": "building",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "hog_rider",
+      "name": "Hog Rider",
+      "cost": 4,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "flying_machine",
+      "name": "Flying Machine",
+      "cost": 4,
+      "level": 8,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "baby_dragon",
+      "name": "Baby Dragon",
+      "cost": 4,
+      "level": 9,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "dark_prince",
+      "name": "Dark Prince",
+      "cost": 4,
+      "level": 11,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "battle_healer",
+      "name": "Battle Healer",
+      "cost": 4,
+      "level": 8,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "freeze",
+      "name": "Freeze",
+      "cost": 4,
+      "level": 11,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "rune_giant",
+      "name": "Rune Giant",
+      "cost": 4,
+      "level": 6,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "poison",
+      "name": "Poison",
+      "cost": 4,
+      "level": 12,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "tesla",
+      "name": "Tesla",
+      "cost": 4,
+      "level": 10,
+      "evolution": false,
+      "type": "building",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "zappies",
+      "name": "Zappies",
+      "cost": 4,
+      "level": 12,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "furnace",
+      "name": "Furnace",
+      "cost": 4,
+      "level": 9,
+      "evolution": false,
+      "type": "building",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "hunter",
+      "name": "Hunter",
+      "cost": 4,
+      "level": 13,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "inferno_dragon",
+      "name": "Inferno Dragon",
+      "cost": 4,
+      "level": 9,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "electro_wizard",
+      "name": "Electro Wizard",
+      "cost": 4,
+      "level": 11,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "goblin_demolisher",
+      "name": "Goblin Demolisher",
+      "cost": 4,
+      "level": 3,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "magic_archer",
+      "name": "Magic Archer",
+      "cost": 4,
+      "level": 11,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "goblin_drill",
+      "name": "Goblin Drill",
+      "cost": 3,
+      "level": 6,
+      "evolution": false,
+      "type": "building",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "skeleton_barrel",
+      "name": "Skeleton Barrel",
+      "cost": 3,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "lumberjack",
+      "name": "Lumberjack",
+      "cost": 4,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "night_witch",
+      "name": "Night Witch",
+      "cost": 4,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "mother_witch",
+      "name": "Mother Witch",
+      "cost": 4,
+      "level": 9,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "golden_knight",
+      "name": "Golden Knight",
+      "cost": 4,
+      "level": 12,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "champion",
+      "tags": []
+    },
+    {
+      "id": "giant",
+      "name": "Giant",
+      "cost": 5,
+      "level": 6,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "barbarians",
+      "name": "Barbarians",
+      "cost": 5,
+      "level": 7,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "wizard",
+      "name": "Wizard",
+      "cost": 5,
+      "level": 12,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "inferno_tower",
+      "name": "Inferno Tower",
+      "cost": 5,
+      "level": 7,
+      "evolution": false,
+      "type": "building",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "witch",
+      "name": "Witch",
+      "cost": 5,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "royal_hogs",
+      "name": "Royal Hogs",
+      "cost": 5,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "balloon",
+      "name": "Balloon",
+      "cost": 5,
+      "level": 8,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "prince",
+      "name": "Prince",
+      "cost": 5,
+      "level": 11,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "minion_horde",
+      "name": "Minion Horde",
+      "cost": 5,
+      "level": 9,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "ram_rider",
+      "name": "Ram Rider",
+      "cost": 5,
+      "level": 11,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "electro_dragon",
+      "name": "Electro_Dragon",
+      "cost": 5,
+      "level": 12,
+      "evolution": true,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "graveyard",
+      "name": "Graveyard",
+      "cost": 5,
+      "level": 10,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "rascals",
+      "name": "Rascals",
+      "cost": 5,
+      "level": 6,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "bowler",
+      "name": "Bowler",
+      "cost": 5,
+      "level": 6,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "executioner",
+      "name": "Executioner",
+      "cost": 5,
+      "level": 8,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "cannon_cart",
+      "name": "Cannon Cart",
+      "cost": 5,
+      "level": 8,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket",
+      "cost": 6,
+      "level": 6,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "royal_giant",
+      "name": "Royal Giant",
+      "cost": 6,
+      "level": 13,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "giant_skeleton",
+      "name": "Giant Skeleton",
+      "cost": 6,
+      "level": 8,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "lightning",
+      "name": "Lightning",
+      "cost": 6,
+      "level": 9,
+      "evolution": false,
+      "type": "spell",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "barbarian_hut",
+      "name": "Barbarian Hut",
+      "cost": 6,
+      "level": 8,
+      "evolution": false,
+      "type": "building",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "goblin_giant",
+      "name": "Goblin Giant",
+      "cost": 6,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "elite_barbarians",
+      "name": "Elite Barbarians",
+      "cost": 6,
+      "level": 13,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "xbow",
+      "name": "X-Bow",
+      "cost": 6,
+      "level": 7,
+      "evolution": false,
+      "type": "building",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "sparky",
+      "name": "Sparky",
+      "cost": 6,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "elixir_collector",
+      "name": "Elixir Collector",
+      "cost": 6,
+      "level": 11,
+      "evolution": false,
+      "type": "building",
+      "rarity": "rare",
+      "tags": []
+    },
+    {
+      "id": "pekka",
+      "name": "P.E.K.K.A",
+      "cost": 7,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "royal_recruits",
+      "name": "Royal Recruits",
+      "cost": 7,
+      "level": 1,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "common",
+      "tags": []
+    },
+    {
+      "id": "mega_knight",
+      "name": "Mega Knight",
+      "cost": 7,
+      "level": 11,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "electro_giant",
+      "name": "Electro Giant",
+      "cost": 7,
+      "level": 6,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "lava_hound",
+      "name": "Lava Hound",
+      "cost": 7,
+      "level": 9,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "legendary",
+      "tags": []
+    },
+    {
+      "id": "golem",
+      "name": "Golem",
+      "cost": 9,
+      "level": 10,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "epic",
+      "tags": []
+    },
+    {
+      "id": "three_musketeers",
+      "name": "Three Musketeers",
+      "cost": 9,
+      "level": 11,
+      "evolution": false,
+      "type": "troop",
+      "rarity": "rare",
+      "tags": []
+    }
+  ]
+}
