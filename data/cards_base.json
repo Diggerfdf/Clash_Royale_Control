@@ -776,6 +776,14 @@
       "can_evolve": false
     },
     {
+      "id":"goblin_machine",
+      "name": "Goblin Machine",
+      "cost": 5,
+      "type": "troop",
+      "rarity": "legendary",
+      "can_evolve": false
+    },
+    {
       "id": "rocket",
       "name": "Rocket",
       "cost": 6,
