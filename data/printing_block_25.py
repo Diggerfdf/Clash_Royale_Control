@@ -2,7 +2,7 @@ import json
 
 BLOCK_SIZE = 25
 
-with open("cards_db.json", "r", encoding="utf-8") as infile:
+with open("cards_base.json", "r", encoding="utf-8") as infile:
     raw_data = json.load(infile)
 
 cards = raw_data["cards"]

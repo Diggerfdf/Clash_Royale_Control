@@ -1,0 +1,454 @@
+[
+  {
+    "id": "electro_spirit",
+    "level": 1
+  },
+  {
+    "id": "heal_spirit",
+    "level": 8
+  },
+  {
+    "id": "fire_spirit",
+    "level": 13
+  },
+  {
+    "id": "ice_spirit",
+    "evolution": false,
+    "level": 13
+  },
+  {
+    "id": "skeletons",
+    "evolution": false,
+    "level": 10
+  },
+  {
+    "id": "mirror",
+    "level": 12
+  },
+  {
+    "id": "goblins",
+    "level": 9
+  },
+  {
+    "id": "spear_goblins",
+    "level": 13
+  },
+  {
+    "id": "giant_snowball",
+    "evolution": false,
+    "level": 4
+  },
+  {
+    "id": "ice_golem",
+    "level": 10
+  },
+  {
+    "id": "barbarian_barrel",
+    "level": 11
+  },
+  {
+    "id": "the_log",
+    "level": 11
+  },
+  {
+    "id": "wall_breakers",
+    "evolution": false,
+    "level": 9
+  },
+  {
+    "id": "suspicious_bush",
+    "level": 3
+  },
+  {
+    "id": "knight",
+    "evolution": false,
+    "level": 10
+  },
+  {
+    "id": "mega_minion",
+    "level": 11
+  },
+  {
+    "id": "ice_wizard",
+    "level": 10
+  },
+  {
+    "id": "bandit",
+    "level": 11
+  },
+  {
+    "id": "zap",
+    "evolution": false,
+    "level": 13
+  },
+  {
+    "id": "bats",
+    "evolution": false,
+    "level": 13
+  },
+  {
+    "id": "minions",
+    "level": 10
+  },
+  {
+    "id": "skeleton_army",
+    "level": 10
+  },
+  {
+    "id": "goblin_barrel",
+    "evolution": false,
+    "level": 11
+  },
+  {
+    "id": "goblin_gang",
+    "level": 13
+  },
+  {
+    "id": "firecracker",
+    "evolution": false,
+    "level": 1
+  },
+  {
+    "id": "royal_ghost",
+    "level": 11
+  },
+  {
+    "id": "berserker",
+    "level": 1
+  },
+  {
+    "id": "cannon",
+    "evolution": false,
+    "level": 5
+  },
+  {
+    "id": "bomber",
+    "evolution": false,
+    "level": 14
+  },
+  {
+    "id": "goblin_curse",
+    "level": 6
+  },
+  {
+    "id": "archers",
+    "evolution": true,
+    "level": 9
+  },
+  {
+    "id": "tombstone",
+    "level": 10
+  },
+  {
+    "id": "guards",
+    "level": 12
+  },
+  {
+    "id": "dart_goblin",
+    "evolution": false,
+    "level": 12
+  },
+  {
+    "id": "princess",
+    "level": 10
+  },
+  {
+    "id": "earthquake",
+    "level": 7
+  },
+  {
+    "id": "royal_delivery",
+    "level": 1
+  },
+  {
+    "id": "elixir_golem",
+    "level": 3
+  },
+  {
+    "id": "tornado",
+    "level": 7
+  },
+  {
+    "id": "fireball",
+    "level": 9
+  },
+  {
+    "id": "fisherman",
+    "level": 9
+  },
+  {
+    "id": "musketeer",
+    "evolution": false,
+    "level": 10
+  },
+  {
+    "id": "mini_pekka",
+    "level": 12
+  },
+  {
+    "id": "goblin_cage",
+    "evolution": false,
+    "level": 3
+  },
+  {
+    "id": "goblin_hut",
+    "level": 10
+  },
+  {
+    "id": "valkyrie",
+    "evolution": false,
+    "level": 9
+  },
+  {
+    "id": "battle_ram",
+    "level": 10
+  },
+  {
+    "id": "skeleton_dragons",
+    "level": 1
+  },
+  {
+    "id": "bomb_tower",
+    "level": 4
+  },
+  {
+    "id": "hog_rider",
+    "level": 10
+  },
+  {
+    "id": "dark_prince",
+    "level": 11
+  },
+  {
+    "id": "freeze",
+    "level": 11
+  },
+  {
+    "id": "poison",
+    "level": 13
+  },
+  {
+    "id": "tesla",
+    "evolution": true,
+    "level": 10
+  },
+  {
+    "id": "zappies",
+    "level": 14
+  },
+  {
+    "id": "baby_dragon",
+    "level": 9
+  },
+  {
+    "id": "flying_machine",
+    "level": 8
+  },
+  {
+    "id": "battle_healer",
+    "level": 8
+  },
+  {
+    "id": "mortar",
+    "evolution": false,
+    "level": 1
+  },
+  {
+    "id": "rune_giant",
+    "level": 6
+  },
+  {
+    "id": "furnace",
+    "level": 9
+  },
+  {
+    "id": "hunter",
+    "evolution": false,
+    "level": 13
+  },
+  {
+    "id": "inferno_dragon",
+    "evolution": false,
+    "level": 9
+  },
+  {
+    "id": "electro_wizard",
+    "level": 12
+  },
+  {
+    "id": "goblin_demolisher",
+    "level": 3
+  },
+  {
+    "id": "magic_archer",
+    "level": 11
+  },
+  {
+    "id": "goblin_drill",
+    "evolution": false,
+    "level": 6
+  },
+  {
+    "id": "phoenix",
+    "level": 9
+  },
+  {
+    "id": "skeleton_barrel",
+    "evolution": false,
+    "level": 13
+  },
+  {
+    "id": "lumberjack",
+    "evolution": false,
+    "level": 10
+  },
+  {
+    "id": "mother_witch",
+    "level": 9
+  },
+  {
+    "id": "night_witch",
+    "level": 10
+  },
+  {
+    "id": "skeleton_king",
+    "level": 11
+  },
+  {
+    "id": "might_miner",
+    "level": 11
+  },
+  {
+    "id": "golden_knight",
+    "level": 12
+  },
+  {
+    "id": "barbarians",
+    "evolution": true,
+    "level": 7
+  },
+  {
+    "id": "wizard",
+    "evolution": false,
+    "level": 12
+  },
+  {
+    "id": "inferno_tower",
+    "level": 11
+  },
+  {
+    "id": "witch",
+    "evolution": false,
+    "level": 10
+  },
+  {
+    "id": "royal_hogs",
+    "level": 10
+  },
+  {
+    "id": "balloon",
+    "level": 8
+  },
+  {
+    "id": "prince",
+    "level": 11
+  },
+  {
+    "id": "ram_rider",
+    "level": 11
+  },
+  {
+    "id": "minion_horde",
+    "level": 9
+  },
+  {
+    "id": "electro_dragon",
+    "evolution": true,
+    "level": 13
+  },
+  {
+    "id": "graveyard",
+    "level": 10
+  },
+  {
+    "id": "rascals",
+    "level": 6
+  },
+  {
+    "id": "cannon_cart",
+    "level": 8
+  },
+  {
+    "id": "executioner",
+    "evolution": false,
+    "level": 8
+  },
+  {
+    "id": "goblin_machine",
+    "level": 9
+  },
+  {
+    "id": "royal_giant",
+    "evolution": false,
+    "level": 14
+  },
+  {
+    "id": "giant_skeleton",
+    "level": 8
+  },
+  {
+    "id": "lightning",
+    "level": 9
+  },
+  {
+    "id": "goblin_giant",
+    "evolution": false,
+    "level": 10
+  },
+  {
+    "id": "barbarian_hut",
+    "level": 8
+  },
+  {
+    "id": "elite_barbarians",
+    "level": 13
+  },
+  {
+    "id": "sparky",
+    "level": 10
+  },
+  {
+    "id": "elixir_collector",
+    "level": 12
+  },
+  {
+    "id": "royal_recruits",
+    "evolution": false,
+    "level": 1
+  },
+  {
+    "id": "boss_bandit",
+    "level": 11
+  },
+  {
+    "id": "electro_giant",
+    "level": 6
+  },
+  {
+    "id": "three_musketeers",
+    "level": 11
+  },
+  {
+    "id": "spirit_empress",
+    "level": 9
+  },
+  {
+    "id": "lava_hound",
+    "level": 9
+  },
+  {
+    "id": "mega_knight",
+    "evolution": false,
+    "level": 11
+  }
+]

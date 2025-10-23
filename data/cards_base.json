@@ -1,937 +1,1331 @@
-[
-  {
-    "id": "skeletons",
-    "name": "Skeletons",
-    "cost": 1,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "fire_spirit",
-    "name": "Fire Spirit",
-    "cost": 1,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": false
-  },
-  {
-    "id": "electro_spirit",
-    "name": "Electro Spirit",
-    "cost": 1,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": false
-  },
-  {
-    "id": "ice_spirit",
-    "name": "Ice Spirit",
-    "cost": 1,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "heal_spirit",
-    "name": "Heal Spirit",
-    "cost": 1,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "mirror",
-    "name": "Mirror",
-    "cost": 1,
-    "type": "spell",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "goblins",
-    "name": "Goblins",
-    "cost": 2,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": false
-  },
-  {
-    "id": "spear_goblins",
-    "name": "Spear Goblins",
-    "cost": 2,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": false
-  },
-  {
-    "id": "bomber",
-    "name": "Bomber",
-    "cost": 2,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "zap",
-    "name": "Zap",
-    "cost": 2,
-    "type": "spell",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "giant_snowball",
-    "name": "Giant Snowball",
-    "cost": 2,
-    "type": "spell",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "ice_golem",
-    "name": "Ice Golem",
-    "cost": 2,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "berserker",
-    "name": "Berserker",
-    "cost": 2,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": false
-  },
-  {
-    "id": "barbarian_barrel",
-    "name": "Barbarian Barrel",
-    "cost": 2,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "bats",
-    "name": "Bats",
-    "cost": 2,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "log",
-    "name": "The Log",
-    "cost": 2,
-    "type": "spell",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "wall_breakers",
-    "name": "Wall Breakers",
-    "cost": 2,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": true
-  },
-  {
-    "id": "suspicious_bush",
-    "name": "Suspicious Bush",
-    "cost": 2,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "rage",
-    "name": "Rage",
-    "cost": 2,
-    "type": "spell",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "goblin_curse",
-    "name": "Goblin Curse",
-    "cost": 2,
-    "type": "spell",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "knight",
-    "name": "Knight",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "archers",
-    "name": "Archers",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "minions",
-    "name": "Minions",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": false
-  },
-  {
-    "id": "arrows",
-    "name": "Arrows",
-    "cost": 3,
-    "type": "spell",
-    "rarity": "common",
-    "can_evolve": false
-  },
-  {
-    "id": "tombstone",
-    "name": "Tombstone",
-    "cost": 3,
-    "type": "building",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "cannon",
-    "name": "Cannon",
-    "cost": 3,
-    "type": "building",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "mega_minion",
-    "name": "Mega Minion",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "skeleton_army",
-    "name": "Skeleton Army",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "guards",
-    "name": "Guards",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "goblin_barrel",
-    "name": "Goblin Barrel",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": true
-  },
-  {
-    "id": "goblin_gang",
-    "name": "Goblin Gang",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": false
-  },
-  {
-    "id": "dart_goblin",
-    "name": "Dart Goblin",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": true
-  },
-  {
-    "id": "princess",
-    "name": "Princess",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "miner",
-    "name": "Miner",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "firecracker",
-    "name": "Firecracker",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "earthquake",
-    "name": "Earthquake",
-    "cost": 3,
-    "type": "spell",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "ice_wizard",
-    "name": "Ice Wizard",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "royal_ghost",
-    "name": "Royal Ghost",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "bandit",
-    "name": "Bandit",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "royal_delivery",
-    "name": "Royal Delivery",
-    "cost": 3,
-    "type": "spell",
-    "rarity": "common",
-    "can_evolve": false
-  },
-  {
-    "id": "elixir_golem",
-    "name": "Elixir Golem",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "tornado",
-    "name": "Tornado",
-    "cost": 3,
-    "type": "spell",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "clone",
-    "name": "Clone",
-    "cost": 3,
-    "type": "spell",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "void",
-    "name": "Void",
-    "cost": 3,
-    "type": "spell",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "fisherman",
-    "name": "Fisherman",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "little_prince",
-    "name": "Little Prince",
-    "cost": 3,
-    "rarity": "champion",
-    "can_evolve": false
-  },
-  {
-    "id": "musketeer",
-    "name": "Musketeer",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": true
-  },
-  {
-    "id": "mini_pekka",
-    "name": "Mini P.E.K.K.A",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "goblin_hut",
-    "name": "Goblin Hut",
-    "cost": 4,
-    "type": "building",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "goblin_cage",
-    "name": "Goblin Cage",
-    "cost": 4,
-    "type": "building",
-    "rarity": "rare",
-    "can_evolve": true
-  },
-  {
-    "id": "fireball",
-    "name": "Fireball",
-    "cost": 4,
-    "type": "spell",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "valkyrie",
-    "name": "Valkyrie",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": true
-  },
-  {
-    "id": "battle_ram",
-    "name": "Battle Ram",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "skeleton_dragons",
-    "name": "Skeleton Dragons",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": false
-  },
-  {
-    "id": "bomb_tower",
-    "name": "Bomb Tower",
-    "cost": 4,
-    "type": "building",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "mortar",
-    "name": "Mortar",
-    "cost": 4,
-    "type": "building",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "hog_rider",
-    "name": "Hog Rider",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "flying_machine",
-    "name": "Flying Machine",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "baby_dragon",
-    "name": "Baby Dragon",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "dark_prince",
-    "name": "Dark Prince",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "battle_healer",
-    "name": "Battle Healer",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "freeze",
-    "name": "Freeze",
-    "cost": 4,
-    "type": "spell",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "rune_giant",
-    "name": "Rune Giant",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "poison",
-    "name": "Poison",
-    "cost": 4,
-    "type": "spell",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "tesla",
-    "name": "Tesla",
-    "cost": 4,
-    "type": "building",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "zappies",
-    "name": "Zappies",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "furnace",
-    "name": "Furnace",
-    "cost": 4,
-    "type": "building",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "hunter",
-    "name": "Hunter",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": true
-  },
-  {
-    "id": "inferno_dragon",
-    "name": "Inferno Dragon",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": true
-  },
-  {
-    "id": "electro_wizard",
-    "name": "Electro Wizard",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "goblin_demolisher",
-    "name": "Goblin Demolisher",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "phoenix",
-    "name": "Phoenix",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": "false"
-  },
-  {
-    "id": "magic_archer",
-    "name": "Magic Archer",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "goblin_drill",
-    "name": "Goblin Drill",
-    "cost": 3,
-    "type": "building",
-    "rarity": "epic",
-    "can_evolve": true
-  },
-  {
-    "id": "skeleton_barrel",
-    "name": "Skeleton Barrel",
-    "cost": 3,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": true
-  },
-  {
-    "id": "lumberjack",
-    "name": "Lumberjack",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": true
-  },
-  {
-    "id": "night_witch",
-    "name": "Night Witch",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "mother_witch",
-    "name": "Mother Witch",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "skeleton_king",
-    "name": "Skeleton King",
-    "cost": 4,
-    "type": "Troop",
-    "rarity": "champion",
-    "can_evolve": false
-  },
-  {
-    "id": "golden_knight",
-    "name": "Golden Knight",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "champion",
-    "can_evolve": false
-  },
-  {
-    "id": "might_miner",
-    "name": "Might Miner",
-    "cost": 4,
-    "type": "troop",
-    "rarity": "champion",
-    "can_evolve": false
-  },
-  {
-    "id": "giant",
-    "name": "Giant",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "barbarians",
-    "name": "Barbarians",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "wizard",
-    "name": "Wizard",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": true
-  },
-  {
-    "id": "inferno_tower",
-    "name": "Inferno Tower",
-    "cost": 5,
-    "type": "building",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "witch",
-    "name": "Witch",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": true
-  },
-  {
-    "id": "royal_hogs",
-    "name": "Royal Hogs",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "balloon",
-    "name": "Balloon",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "prince",
-    "name": "Prince",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "minion_horde",
-    "name": "Minion Horde",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": false
-  },
-  {
-    "id": "ram_rider",
-    "name": "Ram Rider",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "electro_dragon",
-    "name": "Electro_Dragon",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": true
-  },
-  {
-    "id": "graveyard",
-    "name": "Graveyard",
-    "cost": 5,
-    "type": "spell",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "rascals",
-    "name": "Rascals",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": false
-  },
-  {
-    "id": "bowler",
-    "name": "Bowler",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "executioner",
-    "name": "Executioner",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": true
-  },
-  {
-    "id": "cannon_cart",
-    "name": "Cannon Cart",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "goblin_machine",
-    "name": "Goblin Machine",
-    "cost": 5,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "rocket",
-    "name": "Rocket",
-    "cost": 6,
-    "type": "spell",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "royal_giant",
-    "name": "Royal Giant",
-    "cost": 6,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "giant_skeleton",
-    "name": "Giant Skeleton",
-    "cost": 6,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "lightning",
-    "name": "Lightning",
-    "cost": 6,
-    "type": "spell",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "barbarian_hut",
-    "name": "Barbarian Hut",
-    "cost": 6,
-    "type": "building",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "goblin_giant",
-    "name": "Goblin Giant",
-    "cost": 6,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": true
-  },
-  {
-    "id": "elite_barbarians",
-    "name": "Elite Barbarians",
-    "cost": 6,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": false
-  },
-  {
-    "id": "xbow",
-    "name": "X-Bow",
-    "cost": 6,
-    "type": "building",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "sparky",
-    "name": "Sparky",
-    "cost": 6,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "elixir_collector",
-    "name": "Elixir Collector",
-    "cost": 6,
-    "type": "building",
-    "rarity": "rare",
-    "can_evolve": false
-  },
-  {
-    "id": "spirit_empress",
-    "name": "Spirit Empress",
-    "cost": 6,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "boss_bandit",
-    "name": "Boss Bandit",
-    "cost": 6,
-    "type": "troop",
-    "rarity": "champion",
-    "can_evolve": false
-  },
-  {
-    "id": "pekka",
-    "name": "P.E.K.K.A",
-    "cost": 7,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "royal_recruits",
-    "name": "Royal Recruits",
-    "cost": 7,
-    "type": "troop",
-    "rarity": "common",
-    "can_evolve": true
-  },
-  {
-    "id": "mega_knight",
-    "name": "Mega Knight",
-    "cost": 7,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": true
-  },
-  {
-    "id": "electro_giant",
-    "name": "Electro Giant",
-    "cost": 7,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "lava_hound",
-    "name": "Lava Hound",
-    "cost": 7,
-    "type": "troop",
-    "rarity": "legendary",
-    "can_evolve": false
-  },
-  {
-    "id": "golem",
-    "name": "Golem",
-    "cost": 9,
-    "type": "troop",
-    "rarity": "epic",
-    "can_evolve": false
-  },
-  {
-    "id": "three_musketeers",
-    "name": "Three Musketeers",
-    "cost": 9,
-    "type": "troop",
-    "rarity": "rare",
-    "can_evolve": false
-  }
-]
+[{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7ef1"
+  },
+  "id": "skeletons",
+  "can_evolve": true,
+  "cost": 1,
+  "name": "Skeletons",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7ef3"
+  },
+  "id": "electro_spirit",
+  "can_evolve": false,
+  "cost": 1,
+  "name": "Electro Spirit",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7ef6"
+  },
+  "id": "mirror",
+  "can_evolve": false,
+  "cost": 1,
+  "name": "Mirror",
+  "rarity": "epic",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7ef5"
+  },
+  "id": "heal_spirit",
+  "can_evolve": false,
+  "cost": 1,
+  "name": "Heal Spirit",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7ef2"
+  },
+  "id": "fire_spirit",
+  "can_evolve": false,
+  "cost": 1,
+  "name": "Fire Spirit",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7ef4"
+  },
+  "id": "ice_spirit",
+  "can_evolve": true,
+  "cost": 1,
+  "name": "Ice Spirit",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7ef8"
+  },
+  "id": "spear_goblins",
+  "can_evolve": false,
+  "cost": 2,
+  "name": "Spear Goblins",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7ef9"
+  },
+  "id": "bomber",
+  "can_evolve": true,
+  "cost": 2,
+  "name": "Bomber",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7efb"
+  },
+  "id": "giant_snowball",
+  "can_evolve": true,
+  "cost": 2,
+  "name": "Giant Snowball",
+  "rarity": "common",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7efd"
+  },
+  "id": "berserker",
+  "can_evolve": false,
+  "cost": 2,
+  "name": "Berserker",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f04"
+  },
+  "id": "goblin_curse",
+  "can_evolve": false,
+  "cost": 2,
+  "name": "Goblin Curse",
+  "rarity": "epic",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f0a"
+  },
+  "id": "cannon",
+  "can_evolve": true,
+  "cost": 3,
+  "name": "Cannon",
+  "rarity": "common",
+  "type": "building"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f0d"
+  },
+  "id": "guards",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Guards",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7efc"
+  },
+  "id": "ice_golem",
+  "can_evolve": false,
+  "cost": 2,
+  "name": "Ice Golem",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f00"
+  },
+  "id": "log",
+  "can_evolve": false,
+  "cost": 2,
+  "name": "The Log",
+  "rarity": "legendary",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f05"
+  },
+  "id": "knight",
+  "can_evolve": true,
+  "cost": 3,
+  "name": "Knight",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f08"
+  },
+  "id": "arrows",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Arrows",
+  "rarity": "common",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f10"
+  },
+  "id": "dart_goblin",
+  "can_evolve": true,
+  "cost": 3,
+  "name": "Dart Goblin",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f11"
+  },
+  "id": "princess",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Princess",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7efa"
+  },
+  "id": "zap",
+  "can_evolve": true,
+  "cost": 2,
+  "name": "Zap",
+  "rarity": "common",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f03"
+  },
+  "id": "rage",
+  "can_evolve": false,
+  "cost": 2,
+  "name": "Rage",
+  "rarity": "epic",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f0b"
+  },
+  "id": "mega_minion",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Mega Minion",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f0c"
+  },
+  "id": "skeleton_army",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Skeleton Army",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f12"
+  },
+  "id": "miner",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Miner",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7ef7"
+  },
+  "id": "goblins",
+  "can_evolve": false,
+  "cost": 2,
+  "name": "Goblins",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7efe"
+  },
+  "id": "barbarian_barrel",
+  "can_evolve": false,
+  "cost": 2,
+  "name": "Barbarian Barrel",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7eff"
+  },
+  "id": "bats",
+  "can_evolve": true,
+  "cost": 2,
+  "name": "Bats",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f01"
+  },
+  "id": "wall_breakers",
+  "can_evolve": true,
+  "cost": 2,
+  "name": "Wall Breakers",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f02"
+  },
+  "id": "suspicious_bush",
+  "can_evolve": false,
+  "cost": 2,
+  "name": "Suspicious Bush",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f06"
+  },
+  "id": "archers",
+  "can_evolve": true,
+  "cost": 3,
+  "name": "Archers",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f07"
+  },
+  "id": "minions",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Minions",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f09"
+  },
+  "id": "tombstone",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Tombstone",
+  "rarity": "rare",
+  "type": "building"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f0e"
+  },
+  "id": "goblin_barrel",
+  "can_evolve": true,
+  "cost": 3,
+  "name": "Goblin Barrel",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f0f"
+  },
+  "id": "goblin_gang",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Goblin Gang",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f13"
+  },
+  "id": "firecracker",
+  "can_evolve": true,
+  "cost": 3,
+  "name": "Firecracker",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f14"
+  },
+  "id": "earthquake",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Earthquake",
+  "rarity": "rare",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f17"
+  },
+  "id": "bandit",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Bandit",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f1a"
+  },
+  "id": "tornado",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Tornado",
+  "rarity": "epic",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f18"
+  },
+  "id": "royal_delivery",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Royal Delivery",
+  "rarity": "common",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f19"
+  },
+  "id": "elixir_golem",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Elixir Golem",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f15"
+  },
+  "id": "ice_wizard",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Ice Wizard",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f16"
+  },
+  "id": "royal_ghost",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Royal Ghost",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f1b"
+  },
+  "id": "clone",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Clone",
+  "rarity": "epic",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f1e"
+  },
+  "id": "little_prince",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Little Prince",
+  "rarity": "champion",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f1c"
+  },
+  "id": "void",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Void",
+  "rarity": "epic",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f1d"
+  },
+  "id": "fisherman",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Fisherman",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f1f"
+  },
+  "id": "musketeer",
+  "can_evolve": true,
+  "cost": 4,
+  "name": "Musketeer",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f20"
+  },
+  "id": "mini_pekka",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Mini P.E.K.K.A",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f21"
+  },
+  "id": "goblin_hut",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Goblin Hut",
+  "rarity": "rare",
+  "type": "building"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f22"
+  },
+  "id": "goblin_cage",
+  "can_evolve": true,
+  "cost": 4,
+  "name": "Goblin Cage",
+  "rarity": "rare",
+  "type": "building"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f23"
+  },
+  "id": "fireball",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Fireball",
+  "rarity": "rare",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f24"
+  },
+  "id": "valkyrie",
+  "can_evolve": true,
+  "cost": 4,
+  "name": "Valkyrie",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f25"
+  },
+  "id": "battle_ram",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Battle Ram",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f26"
+  },
+  "id": "skeleton_dragons",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Skeleton Dragons",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f27"
+  },
+  "id": "bomb_tower",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Bomb Tower",
+  "rarity": "rare",
+  "type": "building"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f2a"
+  },
+  "id": "flying_machine",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Flying Machine",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f2c"
+  },
+  "id": "dark_prince",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Dark Prince",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f28"
+  },
+  "id": "mortar",
+  "can_evolve": true,
+  "cost": 4,
+  "name": "Mortar",
+  "rarity": "common",
+  "type": "building"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f29"
+  },
+  "id": "hog_rider",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Hog Rider",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f2b"
+  },
+  "id": "baby_dragon",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Baby Dragon",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f2d"
+  },
+  "id": "battle_healer",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Battle Healer",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f2f"
+  },
+  "id": "rune_giant",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Rune Giant",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f2e"
+  },
+  "id": "freeze",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Freeze",
+  "rarity": "epic",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f30"
+  },
+  "id": "poison",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Poison",
+  "rarity": "epic",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f31"
+  },
+  "id": "tesla",
+  "can_evolve": true,
+  "cost": 4,
+  "name": "Tesla",
+  "rarity": "common",
+  "type": "building"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f32"
+  },
+  "id": "zappies",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Zappies",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f33"
+  },
+  "id": "furnace",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Furnace",
+  "rarity": "rare",
+  "type": "building"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f34"
+  },
+  "id": "hunter",
+  "can_evolve": true,
+  "cost": 4,
+  "name": "Hunter",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f35"
+  },
+  "id": "inferno_dragon",
+  "can_evolve": true,
+  "cost": 4,
+  "name": "Inferno Dragon",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f36"
+  },
+  "id": "electro_wizard",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Electro Wizard",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f37"
+  },
+  "id": "goblin_demolisher",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Goblin Demolisher",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f38"
+  },
+  "id": "phoenix",
+  "can_evolve": "false",
+  "cost": 4,
+  "name": "Phoenix",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f3b"
+  },
+  "id": "skeleton_barrel",
+  "can_evolve": true,
+  "cost": 3,
+  "name": "Skeleton Barrel",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f3c"
+  },
+  "id": "lumberjack",
+  "can_evolve": true,
+  "cost": 4,
+  "name": "Lumberjack",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f39"
+  },
+  "id": "magic_archer",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Magic Archer",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f3a"
+  },
+  "id": "goblin_drill",
+  "can_evolve": true,
+  "cost": 3,
+  "name": "Goblin Drill",
+  "rarity": "epic",
+  "type": "building"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f3d"
+  },
+  "id": "night_witch",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Night Witch",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f3e"
+  },
+  "id": "mother_witch",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Mother Witch",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f3f"
+  },
+  "id": "skeleton_king",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Skeleton King",
+  "rarity": "champion",
+  "type": "Troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f40"
+  },
+  "id": "golden_knight",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Golden Knight",
+  "rarity": "champion",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f41"
+  },
+  "id": "might_miner",
+  "can_evolve": false,
+  "cost": 4,
+  "name": "Might Miner",
+  "rarity": "champion",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f42"
+  },
+  "id": "giant",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Giant",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f43"
+  },
+  "id": "barbarians",
+  "can_evolve": true,
+  "cost": 5,
+  "name": "Barbarians",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f44"
+  },
+  "id": "wizard",
+  "can_evolve": true,
+  "cost": 5,
+  "name": "Wizard",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f45"
+  },
+  "id": "inferno_tower",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Inferno Tower",
+  "rarity": "rare",
+  "type": "building"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f46"
+  },
+  "id": "witch",
+  "can_evolve": true,
+  "cost": 5,
+  "name": "Witch",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f47"
+  },
+  "id": "royal_hogs",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Royal Hogs",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f49"
+  },
+  "id": "prince",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Prince",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f4b"
+  },
+  "id": "ram_rider",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Ram Rider",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f48"
+  },
+  "id": "balloon",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Balloon",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f4a"
+  },
+  "id": "minion_horde",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Minion Horde",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f4c"
+  },
+  "id": "electro_dragon",
+  "can_evolve": true,
+  "cost": 5,
+  "name": "Electro_Dragon",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f4d"
+  },
+  "id": "graveyard",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Graveyard",
+  "rarity": "legendary",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f4e"
+  },
+  "id": "rascals",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Rascals",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f4f"
+  },
+  "id": "bowler",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Bowler",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f50"
+  },
+  "id": "executioner",
+  "can_evolve": true,
+  "cost": 5,
+  "name": "Executioner",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f51"
+  },
+  "id": "cannon_cart",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Cannon Cart",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f52"
+  },
+  "id": "goblin_machine",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Goblin Machine",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f53"
+  },
+  "id": "rocket",
+  "can_evolve": false,
+  "cost": 6,
+  "name": "Rocket",
+  "rarity": "rare",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f54"
+  },
+  "id": "royal_giant",
+  "can_evolve": true,
+  "cost": 6,
+  "name": "Royal Giant",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f55"
+  },
+  "id": "giant_skeleton",
+  "can_evolve": false,
+  "cost": 6,
+  "name": "Giant Skeleton",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f56"
+  },
+  "id": "lightning",
+  "can_evolve": false,
+  "cost": 6,
+  "name": "Lightning",
+  "rarity": "epic",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f57"
+  },
+  "id": "barbarian_hut",
+  "can_evolve": false,
+  "cost": 6,
+  "name": "Barbarian Hut",
+  "rarity": "rare",
+  "type": "building"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f59"
+  },
+  "id": "elite_barbarians",
+  "can_evolve": false,
+  "cost": 6,
+  "name": "Elite Barbarians",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f58"
+  },
+  "id": "goblin_giant",
+  "can_evolve": true,
+  "cost": 6,
+  "name": "Goblin Giant",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f5a"
+  },
+  "id": "xbow",
+  "can_evolve": false,
+  "cost": 6,
+  "name": "X-Bow",
+  "rarity": "epic",
+  "type": "building"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f5c"
+  },
+  "id": "elixir_collector",
+  "can_evolve": false,
+  "cost": 6,
+  "name": "Elixir Collector",
+  "rarity": "rare",
+  "type": "building"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f5b"
+  },
+  "id": "sparky",
+  "can_evolve": false,
+  "cost": 6,
+  "name": "Sparky",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f5f"
+  },
+  "id": "pekka",
+  "can_evolve": false,
+  "cost": 7,
+  "name": "P.E.K.K.A",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f5e"
+  },
+  "id": "boss_bandit",
+  "can_evolve": false,
+  "cost": 6,
+  "name": "Boss Bandit",
+  "rarity": "champion",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f5d"
+  },
+  "id": "spirit_empress",
+  "can_evolve": false,
+  "cost": 6,
+  "name": "Spirit Empress",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f60"
+  },
+  "id": "royal_recruits",
+  "can_evolve": true,
+  "cost": 7,
+  "name": "Royal Recruits",
+  "rarity": "common",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f61"
+  },
+  "id": "mega_knight",
+  "can_evolve": true,
+  "cost": 7,
+  "name": "Mega Knight",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f62"
+  },
+  "id": "electro_giant",
+  "can_evolve": false,
+  "cost": 7,
+  "name": "Electro Giant",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f63"
+  },
+  "id": "lava_hound",
+  "can_evolve": false,
+  "cost": 7,
+  "name": "Lava Hound",
+  "rarity": "legendary",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f64"
+  },
+  "id": "golem",
+  "can_evolve": false,
+  "cost": 9,
+  "name": "Golem",
+  "rarity": "epic",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68b79eab9e4625c98dcf7f65"
+  },
+  "id": "three_musketeers",
+  "can_evolve": false,
+  "cost": 9,
+  "name": "Three Musketeers",
+  "rarity": "rare",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68ca0fa79920abf91d1481b6"
+  },
+  "id": "monk",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Monk",
+  "rarity": "Champion",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68de1061521c9320d011c5c2"
+  },
+  "id": "archer_queen",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Archer Queen",
+  "rarity": "champion",
+  "type": "troop"
+},
+{
+  "_id": {
+    "$oid": "68de15c9521c9320d011c5c7"
+  },
+  "id": "vines",
+  "can_evolve": false,
+  "cost": 3,
+  "name": "Vines",
+  "rarity": "epic",
+  "type": "spell"
+},
+{
+  "_id": {
+    "$oid": "68f2b31b8bf60812fe883803"
+  },
+  "id": "goblinstein",
+  "can_evolve": false,
+  "cost": 5,
+  "name": "Goblinstein",
+  "rarity": "champion",
+  "type": "troop"
+}]
