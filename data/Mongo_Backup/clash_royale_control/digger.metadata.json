@@ -1,1 +1,881 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"b19218b97e984e678082d176bd46cd88","collectionName":"digger","type":"collection"}
+[{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f70"
+  },
+  "id": "spear_goblins",
+  "level": 13
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f6c"
+  },
+  "id": "ice_spirit",
+  "evolution": false,
+  "level": 13
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f73"
+  },
+  "id": "giant_snowball",
+  "evolution": false,
+  "level": 4
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f74"
+  },
+  "id": "ice_golem",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f76"
+  },
+  "id": "barbarian_barrel",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f78"
+  },
+  "id": "the_log",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f79"
+  },
+  "id": "wall_breakers",
+  "evolution": false,
+  "level": 12
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f6e"
+  },
+  "id": "mirror",
+  "level": 12
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f7d"
+  },
+  "id": "knight",
+  "evolution": false,
+  "hero": true,
+  "level": 13
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f7a"
+  },
+  "id": "suspicious_bush",
+  "level": 3
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f80"
+  },
+  "id": "arrows",
+  "level": 9
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f83"
+  },
+  "id": "mega_minion",
+  "level": 12
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f69"
+  },
+  "id": "skeletons",
+  "evolution": false,
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f6d"
+  },
+  "id": "heal_spirit",
+  "level": 8
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f72"
+  },
+  "id": "zap",
+  "evolution": false,
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f77"
+  },
+  "id": "bats",
+  "evolution": false,
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f84"
+  },
+  "id": "skeleton_army",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f7f"
+  },
+  "id": "minions",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f6a"
+  },
+  "id": "fire_spirit",
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f86"
+  },
+  "id": "goblin_barrel",
+  "evolution": false,
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f87"
+  },
+  "id": "goblin_gang",
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f8d"
+  },
+  "id": "ice_wizard",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f8f"
+  },
+  "id": "bandit",
+  "level": 12
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f6f"
+  },
+  "id": "goblins",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f8a"
+  },
+  "id": "miner",
+  "level": 13
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f8e"
+  },
+  "id": "royal_ghost",
+  "level": 12
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f7b"
+  },
+  "id": "rage",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f8b"
+  },
+  "id": "firecracker",
+  "evolution": false,
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f7c"
+  },
+  "id": "goblin_curse",
+  "level": 6
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f71"
+  },
+  "id": "bomber",
+  "evolution": false,
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f7e"
+  },
+  "id": "archers",
+  "evolution": true,
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f82"
+  },
+  "id": "cannon",
+  "evolution": false,
+  "level": 5
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f81"
+  },
+  "id": "tombstone",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f75"
+  },
+  "id": "berserker",
+  "level": 1
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f90"
+  },
+  "id": "royal_delivery",
+  "level": 1
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f6b"
+  },
+  "id": "electro_spirit",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f91"
+  },
+  "id": "elixir_golem",
+  "level": 3
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f92"
+  },
+  "id": "tornado",
+  "level": 7
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f93"
+  },
+  "id": "clone",
+  "level": 9
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f94"
+  },
+  "id": "void",
+  "level": 6
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f9a"
+  },
+  "id": "fireball",
+  "level": 9
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f96"
+  },
+  "id": "musketeer",
+  "evolution": false,
+  "level": 13
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f95"
+  },
+  "id": "fisherman",
+  "level": 9
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f98"
+  },
+  "id": "goblin_hut",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f97"
+  },
+  "id": "mini_pekka",
+  "level": 12
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f9c"
+  },
+  "id": "battle_ram",
+  "level": 13
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f9b"
+  },
+  "id": "valkyrie",
+  "evolution": false,
+  "level": 9
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f9d"
+  },
+  "id": "skeleton_dragons",
+  "level": 1
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f9e"
+  },
+  "id": "bomb_tower",
+  "level": 12
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f99"
+  },
+  "id": "goblin_cage",
+  "evolution": false,
+  "level": 3
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fa0"
+  },
+  "id": "hog_rider",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fa5"
+  },
+  "id": "freeze",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fa3"
+  },
+  "id": "dark_prince",
+  "level": 13
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fa7"
+  },
+  "id": "poison",
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fa9"
+  },
+  "id": "zappies",
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fa8"
+  },
+  "id": "tesla",
+  "evolution": true,
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fa2"
+  },
+  "id": "baby_dragon",
+  "level": 12
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fa4"
+  },
+  "id": "battle_healer",
+  "level": 8
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fa1"
+  },
+  "id": "flying_machine",
+  "level": 8
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f8c"
+  },
+  "id": "earthquake",
+  "level": 8
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fa6"
+  },
+  "id": "rune_giant",
+  "level": 6
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7faa"
+  },
+  "id": "furnace",
+  "level": 9,
+  "evolution": false
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f9f"
+  },
+  "id": "mortar",
+  "evolution": false,
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fae"
+  },
+  "id": "goblin_demolisher",
+  "level": 3
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fac"
+  },
+  "id": "inferno_dragon",
+  "evolution": false,
+  "level": 9
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fab"
+  },
+  "id": "hunter",
+  "evolution": false,
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f85"
+  },
+  "id": "guards",
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fad"
+  },
+  "id": "electro_wizard",
+  "level": 12
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f89"
+  },
+  "id": "princess",
+  "level": 12
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fb4"
+  },
+  "id": "night_witch",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fb3"
+  },
+  "id": "lumberjack",
+  "evolution": false,
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7faf"
+  },
+  "id": "phoenix",
+  "level": 9
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fb6"
+  },
+  "id": "skeleton_king",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fb8"
+  },
+  "id": "might_miner",
+  "level": 12
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fba"
+  },
+  "id": "barbarians",
+  "evolution": true,
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fb5"
+  },
+  "id": "mother_witch",
+  "level": 9
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fb7"
+  },
+  "id": "golden_knight",
+  "level": 12
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fbb"
+  },
+  "id": "wizard",
+  "evolution": false,
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fb9"
+  },
+  "id": "giant",
+  "level": 6
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fbc"
+  },
+  "id": "inferno_tower",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fbe"
+  },
+  "id": "royal_hogs",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fbd"
+  },
+  "id": "witch",
+  "evolution": false,
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fc2"
+  },
+  "id": "ram_rider",
+  "level": 12
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fc0"
+  },
+  "id": "prince",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fc1"
+  },
+  "id": "minion_horde",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fc4"
+  },
+  "id": "graveyard",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fc3"
+  },
+  "id": "electro_dragon",
+  "evolution": true,
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7f88"
+  },
+  "id": "dart_goblin",
+  "evolution": false,
+  "level": 13
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fc5"
+  },
+  "id": "rascals",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fbf"
+  },
+  "id": "balloon",
+  "level": 8
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fc8"
+  },
+  "id": "cannon_cart",
+  "level": 8
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fb0"
+  },
+  "id": "magic_archer",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fb1"
+  },
+  "id": "goblin_drill",
+  "evolution": false,
+  "level": 6
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fb2"
+  },
+  "id": "skeleton_barrel",
+  "evolution": true,
+  "level": 13
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fc6"
+  },
+  "id": "bowler",
+  "level": 6
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fc9"
+  },
+  "id": "goblin_machine",
+  "level": 9
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fcb"
+  },
+  "id": "royal_giant",
+  "evolution": true,
+  "level": 15
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fc7"
+  },
+  "id": "executioner",
+  "evolution": true,
+  "level": 13
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fca"
+  },
+  "id": "rocket",
+  "level": 6
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fcf"
+  },
+  "id": "goblin_giant",
+  "evolution": false,
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fcc"
+  },
+  "id": "giant_skeleton",
+  "level": 8
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fce"
+  },
+  "id": "barbarian_hut",
+  "level": 8
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fd0"
+  },
+  "id": "elite_barbarians",
+  "level": 14
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fcd"
+  },
+  "id": "lightning",
+  "level": 9
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fd1"
+  },
+  "id": "xbow",
+  "level": 7
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fd7"
+  },
+  "id": "royal_recruits",
+  "evolution": false,
+  "level": 1
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fd6"
+  },
+  "id": "pekka",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fd2"
+  },
+  "id": "sparky",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fd5"
+  },
+  "id": "boss_bandit",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fd3"
+  },
+  "id": "elixir_collector",
+  "level": 13
+},
+{
+  "_id": {
+    "$oid": "68ca11049920abf91d1481b9"
+  },
+  "id": "monk",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68d32016cfb0b4a81357ec7f"
+  },
+  "id": "little_prince",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fd4"
+  },
+  "id": "spirit_empress",
+  "level": 9
+},
+{
+  "_id": {
+    "$oid": "68de127d521c9320d011c5c4"
+  },
+  "id": "archer_queen",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68de1592521c9320d011c5c5"
+  },
+  "id": "vines",
+  "level": 6
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fda"
+  },
+  "id": "lava_hound",
+  "level": 9
+},
+{
+  "_id": {
+    "$oid": "68f2b7748bf60812fe883805"
+  },
+  "id": "goblinstein",
+  "level": 11
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fdb"
+  },
+  "id": "golem",
+  "level": 10
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fd8"
+  },
+  "id": "mega_knight",
+  "evolution": false,
+  "level": 13
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fdc"
+  },
+  "id": "three_musketeers",
+  "level": 12
+},
+{
+  "_id": {
+    "$oid": "68b79eac9e4625c98dcf7fd9"
+  },
+  "id": "electro_giant",
+  "level": 6
+}]
